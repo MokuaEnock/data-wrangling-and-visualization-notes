@@ -9,5 +9,5 @@ The five steps of the data analysis process:
 - Extract - Obtain the data from a spreadsheet, SQL, the web, etc.
 - Clean - Here, we could use exploratory visuals.
 - Explore - Here, we use exploratory visuals.
-- Analyze - Here, we might use either exploratory or explanatory visuals.
+- Analyze - Here, we might use either exploratory or explanatory   visuals.
 - Share - Here is where explanatory visuals live.
