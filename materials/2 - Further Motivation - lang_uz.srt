@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:02,400
+Oldingi testda,
+
+2
+00:00:02,400 --> 00:00:05,230
+sizni to‘rtta ma’lumotlar 
+to‘plami bilan tanishtirishdi:
+
+3
+00:00:05,230 --> 00:00:11,070
+Y juft va siz ularning barchasi bir xil o‘rta 
+qiymat va standart og‘ishlarga egaligini topdingiz.
+
+4
+00:00:11,070 --> 00:00:14,490
+Bunda Siz mulohazalar bir-biriga juda 
+o‘xshash deb o‘ylashingiz mumkin.
+
+5
+00:00:14,490 --> 00:00:16,380
+Shunday bo‘ldiki, o‘rta qiymat,
+
+6
+00:00:16,380 --> 00:00:18,570
+dispersiya, korrelyatsiya va
+ eng mos kelish chizig‘i 
+
+7
+00:00:18,570 --> 00:00:23,305
+barchasi ushbu to‘rtta ma’lumotlar 
+to‘plami uchun bir xil.
+
+8
+00:00:23,305 --> 00:00:26,110
+Ammo bu ma’lumotlar to‘plamlari 
+aslida qay darajada o‘xshash?
+
+9
+00:00:26,110 --> 00:00:28,120
+Aslida unchalik emas.
+
+10
+00:00:28,120 --> 00:00:31,105
+Bu Anscombe kvarteti deb nomlangan narsa va
+
+11
+00:00:31,105 --> 00:00:35,160
+u ma’lumotlarni tuzilishini chizish 
+qanchalik muhimligini namoyish etadi.
+
+12
+00:00:35,160 --> 00:00:38,505
+Vizual patternlar, tendentsiyalar,
+
+13
+00:00:38,505 --> 00:00:40,765
+va begonalarni tahlil davomida aniqlab olish juda muhim 
+
+14
+00:00:40,765 --> 00:00:44,970
+chunki faqat umumiy statistikasiga 
+tayanish adashtirishi mumkin.
+
+15
+00:00:44,970 --> 00:00:48,390
+Quyida Alberto Caironing 
+DataSaurus ga havola berilgan
+
+16
+00:00:48,390 --> 00:00:52,530
+unda berilgan misoldan ham antiqaroq 
+misolni ko‘rishingiz mumkin.
+
+17
+00:00:52,530 --> 00:00:55,715
+U xuddi shu g‘oyaga asoslanadi, 
+faqat u yulduz,
+
+18
+00:00:55,715 --> 00:01:00,270
+doira va umumiy statistik ma’lumotlari 
+bir xil bo‘lgan ma’lumotlarni topadi.
+

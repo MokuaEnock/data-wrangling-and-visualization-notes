@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:02,399
+In the previous quiz,
+
+2
+00:00:02,399 --> 00:00:05,230
+you were introduced to four data sets of X,
+
+3
+00:00:05,230 --> 00:00:11,070
+Y pairs and you found that they all share the same mean and standard deviation.
+
+4
+00:00:11,070 --> 00:00:14,490
+So you might think that the points are very similar to one another.
+
+5
+00:00:14,490 --> 00:00:16,379
+It turns out, the mean,
+
+6
+00:00:16,379 --> 00:00:18,570
+the variance, the correlation,
+
+7
+00:00:18,570 --> 00:00:23,304
+and the line of best fit are all exactly the same for these four data sets.
+
+8
+00:00:23,304 --> 00:00:26,109
+But how similar are these data sets really?
+
+9
+00:00:26,109 --> 00:00:28,119
+It turns out, not very.
+
+10
+00:00:28,120 --> 00:00:31,105
+This is something called Anscombe's quartet and
+
+11
+00:00:31,105 --> 00:00:35,159
+demonstrates how important it is to always plot your data.
+
+12
+00:00:35,159 --> 00:00:38,504
+It is important that you pick out visual patterns, trends,
+
+13
+00:00:38,505 --> 00:00:40,765
+and outliers during your analysis,
+
+14
+00:00:40,765 --> 00:00:44,969
+as relying on only summary statistics can be misleading.
+
+15
+00:00:44,969 --> 00:00:48,390
+Below is a link to Alberto Cairo's DataSaurus which
+
+16
+00:00:48,390 --> 00:00:52,530
+shows another example which is even crazier than this example.
+
+17
+00:00:52,530 --> 00:00:55,715
+He uses the same idea but he finds a star,
+
+18
+00:00:55,715 --> 00:01:00,270
+a circle, and a data source that all share the same summary statistic.
+

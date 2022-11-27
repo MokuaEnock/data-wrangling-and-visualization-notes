@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:01,092
+MOTIVAÇÃO ADICIONAL
+
+2
+00:00:01,125 --> 00:00:02,528
+No teste anterior,
+
+3
+00:00:02,561 --> 00:00:06,237
+você foi apresentado a quatro
+conjuntos de dados de pares X, Y
+
+4
+00:00:06,682 --> 00:00:10,778
+e descobriu que todos compartilham
+a mesma média e desvio padrão.
+
+5
+00:00:11,073 --> 00:00:14,311
+Então você pode pensar que os pontos
+são muito parecidos entre si.
+
+6
+00:00:14,646 --> 00:00:18,514
+Acontece que, a média, a variação,
+a correlação
+
+7
+00:00:18,547 --> 00:00:22,062
+e a linha do melhor ajuste
+são exatamente iguais
+
+8
+00:00:22,095 --> 00:00:23,511
+para os quatro conjuntos
+de dados.
+
+9
+00:00:23,544 --> 00:00:26,129
+Mas o quão semelhantes
+são esses conjuntos de dados?
+
+10
+00:00:26,162 --> 00:00:27,997
+Não muito.
+
+11
+00:00:28,346 --> 00:00:30,865
+Isso é algo chamado
+de Quarteto de Anscombe
+
+12
+00:00:30,898 --> 00:00:35,112
+e demonstra como é importante
+sempre representar seus dados.
+
+13
+00:00:35,145 --> 00:00:38,582
+É importante que você escolha
+padrões visuais, tendências,
+
+14
+00:00:38,615 --> 00:00:40,791
+e valores atípicos
+durante sua análise,
+
+15
+00:00:41,069 --> 00:00:44,546
+já que confiar só em resumos
+estatísticos pode ser enganoso.
+
+16
+00:00:45,144 --> 00:00:48,037
+Aqui embaixo há um link
+para o DataSaurus de Alberto Cairo
+
+17
+00:00:48,329 --> 00:00:49,889
+que mostra outro exemplo
+
+18
+00:00:49,922 --> 00:00:52,484
+que é ainda mais doido
+do que este exemplo.
+
+19
+00:00:52,517 --> 00:00:55,686
+Ele usa a mesma ideia,
+mas encontra uma estrela,
+
+20
+00:00:55,904 --> 00:00:58,162
+um círculo e uma fonte de dados
+
+21
+00:00:58,195 --> 00:01:00,330
+que compartilham
+o mesmo resumo estatístico.
+

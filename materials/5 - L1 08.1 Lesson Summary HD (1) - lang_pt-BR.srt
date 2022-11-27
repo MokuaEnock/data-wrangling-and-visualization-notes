@@ -1,0 +1,62 @@
+1
+00:00:01,073 --> 00:00:03,091
+Bem-vindo ao fim da 1ª aula.
+
+2
+00:00:03,134 --> 00:00:05,123
+Nesta aula,
+você viu um exemplo
+
+3
+00:00:05,166 --> 00:00:07,526
+da importância
+da visualização de dados
+
+4
+00:00:07,569 --> 00:00:09,728
+para o processo
+de análise de dados.
+
+5
+00:00:09,771 --> 00:00:11,998
+Você aprendeu
+sobre as principais bibliotecas
+
+6
+00:00:12,041 --> 00:00:13,929
+que serão introduzidas
+posteriormente -
+
+7
+00:00:13,971 --> 00:00:16,407
+pandas, Seaborn e matplotlib -
+
+8
+00:00:16,450 --> 00:00:19,900
+e sobre como elas se complementam
+no processo de visualização.
+
+9
+00:00:19,943 --> 00:00:21,877
+Na próxima aula,
+você vai aprender mais
+
+10
+00:00:21,920 --> 00:00:24,673
+sobre os aspectos de design
+das suas visualizações.
+
+11
+00:00:24,716 --> 00:00:27,078
+Posteriormente,
+você construirá visualizações
+
+12
+00:00:27,121 --> 00:00:30,387
+para análises exploratórias
+e explanatórias.
+
+13
+00:00:30,430 --> 00:00:31,644
+Até a próxima aula!
+

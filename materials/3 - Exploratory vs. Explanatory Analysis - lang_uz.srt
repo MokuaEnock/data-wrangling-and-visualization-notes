@@ -1,0 +1,202 @@
+1
+00:00:00,320 --> 00:00:04,305
+Dizayn texnikasiga kirishdan 
+oldin qisqagina
+
+2
+00:00:04,305 --> 00:00:08,030
+vizualizatsiya maqsadlarini 
+muhokama qilish muhimdir.
+
+3
+00:00:08,030 --> 00:00:11,640
+Vizualizatsiyadan tahlil qilishda ikkita 
+asosiy maqsadda foydalanish mumkin
+
+4
+00:00:11,640 --> 00:00:16,605
+ma’lumotlarning izlanish tahlili 
+va izohlash tahlili.
+
+5
+00:00:16,605 --> 00:00:20,455
+Izlanish tahlillari sahna 
+ortida amalga oshiriladi.
+
+6
+00:00:20,455 --> 00:00:23,160
+Bu tahlil turi
+
+7
+00:00:23,160 --> 00:00:27,085
+ma’lumotlar orasidagi munosabatlar yoki 
+yashirin tushunchalarni qidirishga qaratilgan.
+
+8
+00:00:27,085 --> 00:00:28,770
+Ma’lumot to‘plagandan so‘ng,
+
+9
+00:00:28,770 --> 00:00:31,380
+bu haqda savollar berishni 
+boshlashingiz mumkin.
+
+10
+00:00:31,380 --> 00:00:36,740
+Ushbu savollarga javob berish uchun ma’lumotni 
+tahlil qilish usuli izlanish deb nomlanadi.
+
+11
+00:00:36,740 --> 00:00:39,240
+Ushbu maqsadlar uchun yaratilgan 
+vizualizatsiyalar
+
+12
+00:00:39,240 --> 00:00:41,323
+mukammal bo‘lish shart emas.
+
+13
+00:00:41,323 --> 00:00:43,665
+Siz shunchaki pattern - bir 
+qoliplilik izlayapsiz.
+
+14
+00:00:43,665 --> 00:00:48,555
+Izohlash tahlili yashirin tushunchalar 
+topilgandan so‘ng amalga oshiriladi.
+
+15
+00:00:48,555 --> 00:00:52,170
+Ushbu maqsadlarda qurilgan uchun 
+vizualizatsiya o‘quvchini savolga javob 
+
+16
+00:00:52,170 --> 00:00:57,840
+beradigan narsaga qaratadigan hikoyaga 
+bilan o‘ralgan bo‘lishi kerak.
+
+17
+00:00:57,840 --> 00:01:03,330
+Ko‘p hollarda ushbu tushuntirish tasvirlari 
+izlanish jarayonida topilgan.
+
+18
+00:01:03,330 --> 00:01:08,130
+Bunga vizualizatsiyaga olib kelgan har bir qadam 
+va ma’lumotni ulashish o‘rniga
+
+19
+00:01:08,130 --> 00:01:11,775
+siz savol bering va sizning topilmangizni 
+
+20
+00:01:11,775 --> 00:01:17,160
+qo‘llab-quvvatlaydigan vizualizatsiya bilan 
+savolga javob berishga e’tibor qarating.
+
+21
+00:01:17,160 --> 00:01:21,265
+Ma’lumotni tahlil qilish 
+jarayonida besh bosqich mavjud.
+
+22
+00:01:21,265 --> 00:01:23,905
+Birinchidan, siz ma’lumotlarni chiqarib olasiz.
+
+23
+00:01:23,905 --> 00:01:26,085
+Siz ma’lumotni so‘rovnomadan,
+
+24
+00:01:26,085 --> 00:01:29,895
+ma’lumotlar bazasi, Internet yoki boshqa 
+manbalardan olishingiz mumkin.
+
+25
+00:01:29,895 --> 00:01:32,780
+Keyin ma’lumotlarni tozalashingiz mumkin.
+
+26
+00:01:32,780 --> 00:01:34,255
+Ushbu jarayonning bir qismi sifatida,
+
+27
+00:01:34,255 --> 00:01:36,405
+yetishmayotgan qiymatlarni tuzatish,
+
+28
+00:01:36,405 --> 00:01:40,050
+qaysi ustunlarni saqlash kerakligini 
+aniqlash, qiymatlarni yaxlitlash
+
+29
+00:01:40,050 --> 00:01:45,375
+yoki ma’lumotlarni tahlil qilish oson bo‘lgan holga 
+keltirish uchun boshqa amallarni bajarishingiz mumkin.
+
+30
+00:01:45,375 --> 00:01:48,225
+Keyingi qadam ma’lumotlaringizni o‘rganish.
+
+31
+00:01:48,225 --> 00:01:51,195
+Ma’lumotlaringizni tozalash, tadqiq qilish va 
+tahlil qilish uchun ishlatiladigan vizualizatsiya
+
+32
+00:01:51,195 --> 00:01:56,520
+ma’lumotlarning izlanish tahlili 
+jarayonining bir qismidir.
+
+33
+00:01:56,520 --> 00:01:59,130
+Bunda va hatto tozalash bosqichi davomida 
+yaratilgan vizualizatsiya
+34
+00:01:59,130 ​​-> 00:02:04,125
+juda yoqimli yoki aniq bo‘lishi shart emas.
+
+34
+00:02:04,125 --> 00:02:09,390
+Ular shunchaki siz tahlilchi uchun, ma’lumotlarda 
+nima sodir bo‘lishini aniqlashingiz uchun xolos.
+
+35
+00:02:09,390 --> 00:02:10,980
+Ma’lumotni o‘rganib chiqqaningizdan so‘ng,
+
+36
+00:02:10,980 --> 00:02:16,475
+siz qo‘ygan savolga eng yaxshi javob beradigan 
+aniq tahlilni aniqlashingiz lozim.
+
+37
+00:02:16,475 --> 00:02:18,150
+Balkim siz sotuvlar, firibgarlik 
+
+38
+00:02:18,150 --> 00:02:20,640
+yoki uy narxlarini bashorat qilarsiz,
+
+39
+00:02:20,640 --> 00:02:24,420
+ushuncha topganda ishlatiladigan 
+
+40
+00:02:24,420 --> 00:02:28,640
+tasvirlarni baham ko‘rganingizda.
+
+41
+00:02:28,640 --> 00:02:33,610
+Ushbu rasmlar topilmani va u nimani 
+anglatishini tushuntirib beradi.
+
+42
+00:02:33,610 --> 00:02:39,140
+Ular tinglovchilaringizni olg‘a suradi.
+
+43
+00:02:39,140 --> 00:02:45,300
+Ushbu darsning vazifasi izohlash tahlilini 
+qilish uchun vizualizatsiya yaratish.
+

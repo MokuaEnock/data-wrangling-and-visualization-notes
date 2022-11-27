@@ -1,0 +1,44 @@
+1
+00:00:00,200 --> 00:00:03,030
+Welcome to the end of the first lesson.
+
+2
+00:00:03,030 --> 00:00:06,315
+In this lesson, you saw an example of why data visualization,
+
+3
+00:00:06,315 --> 00:00:09,405
+it's so important to the data analysis process.
+
+4
+00:00:09,405 --> 00:00:12,090
+You also learned about the primary libraries that will
+
+5
+00:00:12,090 --> 00:00:14,595
+be introduced in later lessons - Pandas,
+
+6
+00:00:14,595 --> 00:00:17,010
+Seaborn, and Matplotlib - and how they
+
+7
+00:00:17,010 --> 00:00:19,675
+compliment each other in the visualization process.
+
+8
+00:00:19,675 --> 00:00:21,050
+In the next lesson,
+
+9
+00:00:21,050 --> 00:00:24,510
+you will learn more about the design aspects of your visualizations.
+
+10
+00:00:24,510 --> 00:00:27,090
+Further lessons will see you building visualizations for
+
+11
+00:00:27,090 --> 00:00:32,440
+both exploratory and explanatory analyses. See you in the next lesson.
+

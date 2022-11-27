@@ -1,0 +1,159 @@
+1
+00:00:01,157 --> 00:00:04,633
+CONCEITO 06:
+VISUALIZAÇÃO EM PYTHON
+
+2
+00:00:05,252 --> 00:00:06,408
+Neste curso,
+
+3
+00:00:06,451 --> 00:00:09,625
+você usará 2 bibliotecas
+de visualização em Python:
+
+4
+00:00:09,668 --> 00:00:12,002
+matplotlib e Seaborn.
+
+5
+00:00:12,045 --> 00:00:13,878
+Você também usará
+funções de plotagem
+
+6
+00:00:13,921 --> 00:00:15,813
+contidas na biblioteca pandas,
+
+7
+00:00:15,856 --> 00:00:18,009
+que é um pacote
+de análise de dados geral
+
+8
+00:00:18,052 --> 00:00:21,334
+não explicitamente exclusivo
+para visualização de dados.
+
+9
+00:00:21,377 --> 00:00:23,762
+Frequentemente, ao escolher
+uma ferramenta,
+
+10
+00:00:23,805 --> 00:00:27,204
+há um equilíbrio
+entre flexibilidade e produtividade.
+
+11
+00:00:27,247 --> 00:00:31,140
+De um lado, estão as ferramentas
+com alto nível de flexibilidade -
+
+12
+00:00:31,183 --> 00:00:34,217
+matplotlib se encaixa
+nessa categoria.
+
+13
+00:00:34,260 --> 00:00:37,131
+A versatilidade da matplotlib
+permite que seja usada
+
+14
+00:00:37,174 --> 00:00:40,296
+para quase qualquer tipo
+de visualização que você crie,
+
+15
+00:00:40,339 --> 00:00:43,654
+mas essa versatilidade
+pode vir com muita verbosidade.
+
+16
+00:00:43,697 --> 00:00:46,409
+Alguns gráficos comuns,
+como gráficos de barras,
+
+17
+00:00:46,452 --> 00:00:49,729
+exigem uma grande quantidade
+de código para ser escritos.
+
+18
+00:00:49,772 --> 00:00:52,541
+O fato de você precisar ser
+muito específico
+
+19
+00:00:52,584 --> 00:00:54,082
+sobre a criação dos gráficos
+
+20
+00:00:54,125 --> 00:00:58,820
+pode dificultar a exploração rápida
+dos dados só com matplotlib.
+
+21
+00:00:58,863 --> 00:01:00,654
+Caso você queira ser produtivo
+
+22
+00:01:00,697 --> 00:01:03,942
+e precise gerar muitos gráficos
+com pouco código,
+
+23
+00:01:03,985 --> 00:01:07,658
+bibliotecas como Seaborn
+e pandas podem ser úteis.
+
+24
+00:01:07,701 --> 00:01:10,433
+Essas bibliotecas contêm
+muitas funções convenientes
+
+25
+00:01:10,476 --> 00:01:13,410
+para gerar rapidamente
+gráficos dos seus dados.
+
+26
+00:01:13,453 --> 00:01:16,331
+Contudo, os gráficos comportados
+por essas bibliotecas
+
+27
+00:01:16,374 --> 00:01:17,824
+não são exaustivos,
+
+28
+00:01:17,867 --> 00:01:21,665
+então eles sozinhos não são
+tão flexíveis quanto matplotlib.
+
+29
+00:01:21,708 --> 00:01:25,319
+Juntos, os pontos fortes dessas
+bibliotecas são complementares.
+
+30
+00:01:25,362 --> 00:01:28,229
+Na maior parte do tempo,
+você vai usar pandas e Seaborn
+
+31
+00:01:28,272 --> 00:01:31,336
+para realizar explorações
+iniciais dos seus dados.
+
+32
+00:01:31,379 --> 00:01:34,731
+Depois, você poderá usar matplotlib
+para personalizar seus gráficos
+
+33
+00:01:34,774 --> 00:01:37,965
+ou gerar gráficos não comportados
+pelas outras bibliotecas.
+

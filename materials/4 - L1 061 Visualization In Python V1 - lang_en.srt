@@ -1,0 +1,108 @@
+1
+00:00:04,400 --> 00:00:09,480
+In this course, you will make use of two Python Visualization Libraries.
+
+2
+00:00:09,480 --> 00:00:11,775
+Matplotlib and Seaboard.
+
+3
+00:00:11,775 --> 00:00:15,660
+You will also make use of plotting functions built into the pandas library,
+
+4
+00:00:15,660 --> 00:00:20,835
+which is a general data analysis package not explicitly just for data visualization.
+
+5
+00:00:20,835 --> 00:00:23,670
+Often, when choosing a tool to work with,
+
+6
+00:00:23,670 --> 00:00:26,895
+there's a trade-off between flexibility and productivity.
+
+7
+00:00:26,895 --> 00:00:30,975
+On one end, you have a tool that has a high amount of flexibility.
+
+8
+00:00:30,975 --> 00:00:33,830
+Matplotlib falls on this end of the spectrum.
+
+9
+00:00:33,830 --> 00:00:36,140
+The versatility of Matplotlib,
+
+10
+00:00:36,140 --> 00:00:40,145
+allows it to be used for nearly any kind of visualization you care to create.
+
+11
+00:00:40,145 --> 00:00:43,385
+But this versatility, can come with a lot of verbosity.
+
+12
+00:00:43,385 --> 00:00:46,490
+There are some common plots like bar charts,
+
+13
+00:00:46,490 --> 00:00:49,370
+that require a large amount of code to be written.
+
+14
+00:00:49,370 --> 00:00:53,390
+The fact that you sometimes need to be very specific about how plots are
+
+15
+00:00:53,390 --> 00:00:58,385
+created can make it hard to quickly explore your data with matplotlib alone.
+
+16
+00:00:58,385 --> 00:01:00,545
+If you're looking to be productive,
+
+17
+00:01:00,545 --> 00:01:03,980
+and need to be generating many plots with little code,
+
+18
+00:01:03,980 --> 00:01:07,370
+Libraries like seaborne and Pandas can come in handy.
+
+19
+00:01:07,370 --> 00:01:09,230
+These libraries contain a lot of
+
+20
+00:01:09,230 --> 00:01:13,030
+convenience functions to quickly generate plots of your data.
+
+21
+00:01:13,030 --> 00:01:17,585
+However, the plot types afforded by these libraries are not exhaustive.
+
+22
+00:01:17,585 --> 00:01:21,290
+So on their own, they're not as flexible as matplotlib.
+
+23
+00:01:21,290 --> 00:01:25,055
+Together, the strengths of these libraries are complementary.
+
+24
+00:01:25,055 --> 00:01:27,620
+For the most part, you can expect to use Pandas and
+
+25
+00:01:27,620 --> 00:01:30,935
+Seaboard to perform initial explorations of your data.
+
+26
+00:01:30,935 --> 00:01:34,820
+You may then want to use matplotlib to customize your plots,
+
+27
+00:01:34,820 --> 00:01:38,880
+or generate plots not covered by these other libraries.
+

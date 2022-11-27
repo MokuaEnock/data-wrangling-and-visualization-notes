@@ -1,0 +1,122 @@
+1
+00:00:01,027 --> 00:00:04,601
+CONCEITO 01:
+INTRODUÇÃO À VISUALIZAÇÃO DE DADOS
+
+2
+00:00:05,868 --> 00:00:08,410
+-Olá. Eu sou Mike.
+-E eu sou Josh.
+
+3
+00:00:08,453 --> 00:00:12,174
+Queremos lhe dar as boas-vindas
+ao curso de visualização de dados.
+
+4
+00:00:12,217 --> 00:00:14,926
+Visualização de dados é vital
+em diversas áreas
+
+5
+00:00:14,969 --> 00:00:17,413
+do processo
+de análise de dados.
+
+6
+00:00:17,456 --> 00:00:19,960
+Há 2 tópicos principais
+abordados neste curso.
+
+7
+00:00:20,003 --> 00:00:22,824
+Visualizações de dados exploratórias
+servem para entender
+
+8
+00:00:22,867 --> 00:00:27,005
+a estrutura dos dados mais rápido
+do que a estatística faria sozinha.
+
+9
+00:00:27,048 --> 00:00:28,796
+Esse tipo de visualização
+é usado
+
+10
+00:00:28,839 --> 00:00:32,541
+quando você está pronto para começar
+a investigar seus dados reunidos.
+
+11
+00:00:32,584 --> 00:00:35,468
+Visualizações de dados
+explanatórias, por outro lado,
+
+12
+00:00:35,511 --> 00:00:38,072
+são criadas
+no fim da sua análise.
+
+13
+00:00:38,115 --> 00:00:41,194
+Elas são usadas para transmitir
+suas descobertas para outros
+
+14
+00:00:41,237 --> 00:00:42,649
+ou para contar uma história.
+
+15
+00:00:43,304 --> 00:00:47,489
+No curso, iremos além de codificar
+para criar visualizações.
+
+16
+00:00:47,532 --> 00:00:50,594
+Você também vai aprender
+sobre o design das visualizações -
+
+17
+00:00:50,637 --> 00:00:52,421
+de escolher o tipo de gráfico
+
+18
+00:00:52,464 --> 00:00:54,964
+a selecionar codificações
+de variáveis apropriadas.
+
+19
+00:00:55,007 --> 00:00:58,139
+Você vai aprender a criar
+visualizações claras para você,
+
+20
+00:00:58,182 --> 00:00:59,487
+mas também para outros.
+
+21
+00:01:00,568 --> 00:01:03,279
+Visualização de dados deve ser
+minha parte preferida
+
+22
+00:01:03,322 --> 00:01:05,687
+do processo
+de análise de dados.
+
+23
+00:01:05,730 --> 00:01:10,419
+É empolgante absorver visualizações
+que geram novos insights.
+
+24
+00:01:10,462 --> 00:01:14,053
+Ao fim do curso, você poderá usar
+técnicas de visualização de dados
+
+25
+00:01:14,096 --> 00:01:16,605
+para aprimorar o seu trabalho
+de análise de dados.
+

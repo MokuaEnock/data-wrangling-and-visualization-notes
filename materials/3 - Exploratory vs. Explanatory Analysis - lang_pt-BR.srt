@@ -1,0 +1,271 @@
+1
+00:00:01,050 --> 00:00:04,300
+Rapidamente, antes de falarmos
+de técnicas de design,
+
+2
+00:00:04,334 --> 00:00:07,850
+é importante discutirmos
+o propósito das visualizações.
+
+3
+00:00:07,884 --> 00:00:10,600
+Visualizações podem ser usadas
+para dois fins principais
+
+4
+00:00:10,634 --> 00:00:12,500
+na análise de dados.
+
+5
+00:00:12,534 --> 00:00:16,700
+Análise exploratória
+e análise explicativa.
+
+6
+00:00:16,734 --> 00:00:20,400
+A análise exploratória
+é feita nos bastidores.
+
+7
+00:00:20,434 --> 00:00:21,900
+Esse é o tipo de análise
+
+8
+00:00:21,934 --> 00:00:23,950
+em que você procura,
+nos dados,
+
+9
+00:00:23,984 --> 00:00:26,900
+relações
+ou insights ocultos.
+
+10
+00:00:26,934 --> 00:00:28,600
+Depois de coletar os dados,
+
+11
+00:00:28,634 --> 00:00:31,150
+você começa
+a fazer perguntas.
+
+12
+00:00:31,184 --> 00:00:34,550
+A forma como você analisa os dados
+para tentar responder às perguntas
+
+13
+00:00:34,584 --> 00:00:36,950
+é chamada de "exploratória".
+
+14
+00:00:36,984 --> 00:00:39,050
+Visualizações feitas
+para esse fim
+
+15
+00:00:39,084 --> 00:00:41,100
+não precisam ser perfeitas.
+
+16
+00:00:41,134 --> 00:00:43,250
+Você só procura padrões.
+
+17
+00:00:44,200 --> 00:00:48,650
+A análise exploratória é feita
+depois que você encontra um insight.
+
+18
+00:00:48,684 --> 00:00:53,000
+Visualizações para esse fim
+precisam acompanhar uma história
+
+19
+00:00:53,034 --> 00:00:57,600
+que direciona o leitor a um insight
+que responde à pergunta.
+
+20
+00:00:57,634 --> 00:01:00,200
+Frequentemente,
+essas representações explicativas
+
+21
+00:01:00,234 --> 00:01:03,300
+foram encontradas
+durante o processo exploratório.
+
+22
+00:01:03,334 --> 00:01:06,750
+Mas, em vez de mostrar
+todo passo e todo dado
+
+23
+00:01:06,784 --> 00:01:09,250
+que levaram a essa visualização,
+
+24
+00:01:09,284 --> 00:01:11,000
+você faz a pergunta
+
+25
+00:01:11,034 --> 00:01:13,700
+e se concentra em respondê-la
+
+26
+00:01:13,734 --> 00:01:16,950
+com uma visualização
+que ratifique sua descoberta.
+
+27
+00:01:16,984 --> 00:01:21,100
+Há cinco passos
+no processo de análise de dados.
+
+28
+00:01:21,134 --> 00:01:23,850
+Primeiro você extrai
+os dados.
+
+29
+00:01:23,884 --> 00:01:26,000
+Talvez você os obtenha
+de uma pesquisa,
+
+30
+00:01:26,034 --> 00:01:29,850
+de um banco de dados,
+da internet ou de outra fonte.
+
+31
+00:01:29,884 --> 00:01:32,500
+Depois você limpa os dados.
+
+32
+00:01:32,534 --> 00:01:34,000
+Como parte desse processo,
+
+33
+00:01:34,034 --> 00:01:36,300
+você pode consertar
+valores faltantes,
+
+34
+00:01:36,334 --> 00:01:39,950
+determinar que colunas manter,
+arredondas valores
+
+35
+00:01:39,984 --> 00:01:41,600
+ou executar outros truques
+
+36
+00:01:41,634 --> 00:01:45,150
+para deixar os dados
+de um modo analisável.
+
+37
+00:01:45,184 --> 00:01:48,100
+O próximo passo
+é explorar os dados.
+
+38
+00:01:48,134 --> 00:01:50,000
+As representações usadas
+para limpar,
+
+39
+00:01:50,034 --> 00:01:52,650
+explorar e analisar seus dados
+
+40
+00:01:52,684 --> 00:01:56,400
+fazem parte do processo
+de análise de dado exploratória.
+
+41
+00:01:56,434 --> 00:02:00,050
+As representações criadas aqui
+e na fase de limpeza
+
+42
+00:02:00,084 --> 00:02:03,950
+não precisam ser superlindas
+ou facílimas de compreender.
+
+43
+00:02:03,984 --> 00:02:06,000
+Elas são para você,
+o analista,
+
+44
+00:02:06,034 --> 00:02:09,100
+determinar o que é
+que os dados têm a dizer.
+
+45
+00:02:09,134 --> 00:02:11,000
+Depois que você explorar
+os dados,
+
+46
+00:02:11,034 --> 00:02:13,250
+pode definir
+uma análise específica
+
+47
+00:02:13,284 --> 00:02:16,250
+que explicou melhor
+dada pergunta.
+
+48
+00:02:16,284 --> 00:02:18,850
+Talvez você esteja fazendo prospecto
+de vendas, fraudes,
+
+49
+00:02:18,884 --> 00:02:20,600
+preços de imóveis.
+
+50
+00:02:20,634 --> 00:02:23,100
+Quando encontrar
+um insight para compartilhar,
+
+51
+00:02:23,134 --> 00:02:26,000
+as representações usadas
+para transmitir o insight
+
+52
+00:02:26,034 --> 00:02:28,750
+fazem parte
+das representações explicativas.
+
+53
+00:02:28,784 --> 00:02:30,700
+Essas representações
+contam a história
+
+54
+00:02:30,734 --> 00:02:33,500
+sobre a descoberta
+e o que ela significa.
+
+55
+00:02:33,534 --> 00:02:38,000
+Elas motivam reações
+e compelem o público a se mexer.
+
+56
+00:02:39,050 --> 00:02:42,300
+O objetivo desta aula
+é criar representações gráficas
+
+57
+00:02:42,334 --> 00:02:45,400
+que serão usadas
+para análises explicativas.
+

@@ -1,0 +1,176 @@
+1
+00:00:00,320 --> 00:00:04,304
+Real quick before we jump into design techniques,
+
+2
+00:00:04,304 --> 00:00:08,029
+it's important to discuss the purpose of visualizations.
+
+3
+00:00:08,029 --> 00:00:11,639
+Visualizations can be used for two main purposes when analyzing
+
+4
+00:00:11,640 --> 00:00:16,605
+data Exploratory analysis and Explanatory analysis.
+
+5
+00:00:16,605 --> 00:00:20,455
+Exploratory analysis is done behind the scenes.
+
+6
+00:00:20,454 --> 00:00:23,159
+This is the type of analysis where you're searching for
+
+7
+00:00:23,160 --> 00:00:27,085
+relationships in the data or hidden insights.
+
+8
+00:00:27,085 --> 00:00:28,769
+Once you've collected the data,
+
+9
+00:00:28,769 --> 00:00:31,379
+you can start asking questions about it.
+
+10
+00:00:31,379 --> 00:00:36,740
+The way you analyze data to try and answer these questions is known as exploratory.
+
+11
+00:00:36,740 --> 00:00:39,240
+Visualizations built for these purposes,
+
+12
+00:00:39,240 --> 00:00:41,323
+do not need to be perfect.
+
+13
+00:00:41,323 --> 00:00:43,664
+You're simply looking for patterns.
+
+14
+00:00:43,664 --> 00:00:48,554
+Explanatory analysis is done after you find an insight.
+
+15
+00:00:48,554 --> 00:00:52,170
+Visualizations for these purposes need to be surrounded by
+
+16
+00:00:52,170 --> 00:00:57,840
+a story that points the reader to an insight that answers the question.
+
+17
+00:00:57,840 --> 00:01:03,330
+Many times these explanatory visuals were found during the exploratory process.
+
+18
+00:01:03,329 --> 00:01:08,129
+But rather than share every step and piece of data that led to this
+
+19
+00:01:08,129 --> 00:01:11,774
+visualization,you ask the question and then
+
+20
+00:01:11,775 --> 00:01:17,160
+focus on answering the question with a visualization that supports your finding.
+
+21
+00:01:17,159 --> 00:01:21,265
+There are five steps in the data analysis process.
+
+22
+00:01:21,265 --> 00:01:23,905
+First, you extract your data.
+
+23
+00:01:23,905 --> 00:01:26,085
+You might get the data from a survey,
+
+24
+00:01:26,084 --> 00:01:29,894
+a database, the web or some other source.
+
+25
+00:01:29,894 --> 00:01:32,780
+Then you can clean the data.
+
+26
+00:01:32,780 --> 00:01:34,254
+As a part of this process,
+
+27
+00:01:34,254 --> 00:01:36,405
+you might fix missing values,
+
+28
+00:01:36,405 --> 00:01:40,049
+determine which columns to keep, round values,
+
+29
+00:01:40,049 --> 00:01:45,375
+or perform some other tricks to get the data in a way that you can analyze it.
+
+30
+00:01:45,375 --> 00:01:48,224
+The next step is exploring your data.
+
+31
+00:01:48,224 --> 00:01:51,194
+The visuals used for cleaning, exploring,
+
+32
+00:01:51,194 --> 00:01:56,519
+and analyzing your data are part of the exploratory data analysis process.
+
+33
+00:01:56,519 --> 00:01:59,129
+The visuals created here and even during
+
+34
+00:01:59,129 --> 00:02:04,125
+the cleaning phase don't need to be super pretty or super clear in their message.
+
+35
+00:02:04,125 --> 00:02:09,389
+They're just for you, the analyst to determine what is going on in the data.
+
+36
+00:02:09,389 --> 00:02:10,979
+Once you explore the data,
+
+37
+00:02:10,979 --> 00:02:16,474
+you might determine a particular analysis that was best to answer a particular question.
+
+38
+00:02:16,474 --> 00:02:18,150
+Maybe you are predicting sales,
+
+39
+00:02:18,150 --> 00:02:20,640
+or fraud, or home prices,
+
+40
+00:02:20,639 --> 00:02:24,419
+when you find an insight to share the visuals used
+
+41
+00:02:24,419 --> 00:02:28,639
+for sharing this insight or part of the explanatory visuals.
+
+42
+00:02:28,639 --> 00:02:33,609
+These visuals tell the story of the finding and what it means.
+
+43
+00:02:33,610 --> 00:02:39,140
+They motivate the actions and move your audience forward.
+
+44
+00:02:39,139 --> 00:02:45,299
+The role of this lesson is to build visuals that will be used for explanatory analysis.
+
